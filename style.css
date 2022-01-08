@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+} 
+.navbar ul li a{
+    font-size:"100px";
+    text-align: center;
+    color: aqua
+    ;
+}
+.active,.navbar ul li :hover{
+    text-decoration: underline ; 
+    color:#2fcc76;   
+}
+.hr1{
+    margin-top: 2px;
+    width:20px;
+    color:black;
+}
+
+.whoarewe {
+    width: 1000px;
+    margin:auto;
+}
+ 
+.whoarewe img {
+    float:left;
+    padding:0 10px 10px 0;
+}
+   
+.checkbox{
+ padding-left: 100px;
+}   
+.btn-signup{
+  color:white;;
+  border-radius: 4px;
+  
+}
+.btn-success{
+    float: right;
+}
